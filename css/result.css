@@ -1,6 +1,6 @@
 body{
   background-color: #eaf8ff;
-  background-image: url(../mbti-imges/result_bg.jpg);
+  background-image: url(../imges/result_bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
 }
@@ -47,7 +47,7 @@ body{
 }
 .result .job{
   background-color: #FFFFFF;
-  background-image: url(../mbti-imges/result_star.png);
+  background-image: url(../imges/result_star.png);
   background-position: center center;
   flex: 1;
   background-repeat: no-repeat;
